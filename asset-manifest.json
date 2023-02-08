@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/raiprince25/MovieFrontPageReact/static/css/main.334bdeb1.css",
-    "main.js": "/raiprince25/MovieFrontPageReact/static/js/main.1decea47.js",
-    "index.html": "/raiprince25/MovieFrontPageReact/index.html",
-    "static/media/search.svg": "/raiprince25/MovieFrontPageReact/static/media/search.374dc34a202f33824c399a37082cabeb.svg",
-    "main.334bdeb1.css.map": "/raiprince25/MovieFrontPageReact/static/css/main.334bdeb1.css.map",
-    "main.1decea47.js.map": "/raiprince25/MovieFrontPageReact/static/js/main.1decea47.js.map"
+    "main.css": "/MovieFrontPageReact/static/css/main.334bdeb1.css",
+    "main.js": "/MovieFrontPageReact/static/js/main.9f1ddc18.js",
+    "index.html": "/MovieFrontPageReact/index.html",
+    "static/media/search.svg": "/MovieFrontPageReact/static/media/search.374dc34a202f33824c399a37082cabeb.svg",
+    "main.334bdeb1.css.map": "/MovieFrontPageReact/static/css/main.334bdeb1.css.map",
+    "main.9f1ddc18.js.map": "/MovieFrontPageReact/static/js/main.9f1ddc18.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.1decea47.js"
+    "static/js/main.9f1ddc18.js"
   ]
 }
